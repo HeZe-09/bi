@@ -8,15 +8,15 @@
 2. TypeScript
 3. element pro
 4. 可视化开发库：Echarts
-5. apifox 项目文档以及对应的ts代码
+
 
 后端
-1. SpringBoot3
+1. SpringBoot
 2. MySQL数据库
 3. Redis：Redissson限流控制
 4. MyBatis Plus 数据库访问结构
 5. 消息队列：RabbitMQ
 6. AI能力：Open AI接口开发
 7. Excel上传和数据的解析：Easy Excel
-8. Knife4j 最新4.0  项目文档
+8. Knife4j 最新4.0 项目文档
 9. Hutool 工具库
